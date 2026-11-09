@@ -1,6 +1,6 @@
 # About Me
 
-I'm Rose (they/she 🏳️‍⚧️).
+I'm Rose Ih (they/she 🏳️‍⚧️).
 
 I'm a senior year computer engineering student at UMass Amherst. I transferred
 junior year to UMass from Olin College of Engineering.
